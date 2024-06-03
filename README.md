@@ -1,6 +1,6 @@
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geofmoura&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geofmoura&show_icons=true&theme=synthwave)
 
 </div>
 

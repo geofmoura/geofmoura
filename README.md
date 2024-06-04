@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF00FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=header"/>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=geofmoura&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-geodev.vercel.app/api/top-langs/?username=&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=geofmoura&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 <div style="display:inline_block" align="center><br>
@@ -28,4 +28,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FF00FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>

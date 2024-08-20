@@ -2,13 +2,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Geovana;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
-
 <div  align="center" style="margin-bottom: 100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=geofmoura&theme=midnight-purple" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-geofmoura.vercel.app/api/top-langs/?username=geofmoura&show_icons=true&theme=midnight-purple&layout=compact" />
 </div>
 
 <br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/geovanafmoura/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/fermxp/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:mrsgeovanamoura@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -18,7 +31,6 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
 </p>
 
 

@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9370DB&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Geovana;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <div  align="center" style="margin-bottom: 100px">
+<img width=53% align='center' src=https://github-readme-stats.vercel.app/api?username=geofmoura&show_icons=true&theme=midnight-purple&layout-compact" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-geofmoura.vercel.app/api/top-langs/?username=geofmoura&show_icons=true&theme=midnight-purple&layout=compact" />
 </div>
 

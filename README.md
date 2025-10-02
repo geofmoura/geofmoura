@@ -28,7 +28,7 @@
 | :-: | :-: |
 
 [![My Skills](https://skillicons.dev/icons?i=php,java,bootstrap,c,py,cpp,css,html,js,react,mysql)](https://skillicons.dev)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/geovanafmoura)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/geovanafmoura)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mrsgeovanamoura@gmail.com)
 </div>
 

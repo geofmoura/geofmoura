@@ -27,6 +27,8 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geofmoura&theme=omni) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geofmoura&theme=omni)](https://git.io/streak-stats) |
 | :-: | :-: |
 
-[![My Skills](https://skillicons.dev/icons?i=php,java,bootstrap,c,py,cpp,css,html,js,react,mysql,gmail,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,java,bootstrap,c,py,cpp,css,html,js,react,mysql)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/geovanafmoura)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mrsgeovanamoura@gmail.com)
 </div>
 

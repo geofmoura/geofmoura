@@ -13,14 +13,7 @@
 </div>
 <div align="center">
 <br>
-<details align="center">
-    <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-    </summary>
-    <br>
-<div align="center">
+<br>
  <div align="center">
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geofmoura&theme=omni) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geofmoura&theme=omni) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geofmoura&theme=omni&utcOffset=8) |

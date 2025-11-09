@@ -16,7 +16,7 @@
 <br>
  <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geofmoura&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geofmoura&theme=radical&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geofmoura&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geofmoura&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geofmoura&theme=radical&utcOffset=8) |
 | :-: | :-: | :-: |
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geofmoura&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geofmoura&theme=radical)](https://git.io/streak-stats) |

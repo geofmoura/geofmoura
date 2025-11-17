@@ -25,5 +25,6 @@
 [![My Skills](https://skillicons.dev/icons?i=php,java,bootstrap,c,py,cpp,js,react,mysql,sqlite)](https://skillicons.dev) <br>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/geovanafmoura)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mrsgeovanamoura@gmail.com)
+[![Currículo](https://skillicons.dev/icons?i=stackoverflow)](https://github.com/geofmoura/geofmoura/raw/main/GeovanaMoura.pdf)
 </div>
 

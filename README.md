@@ -22,7 +22,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geofmoura&theme=radical) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=geofmoura&theme=radical)](https://git.io/streak-stats) |
 | :-: | :-: |
 
-[![My Skills](https://skillicons.dev/icons?i=php,kotlin,py,cpp,js,typescript,angular,mysql)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=php,py,cpp,js,typescript,angular,mysql)](https://skillicons.dev) <br>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/geovanafmoura)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mrsgeovanamoura@gmail.com)
 [![Currículo](https://skillicons.dev/icons?i=stackoverflow)](https://github.com/geofmoura/geofmoura/raw/main/GeovanaMoura.pdf)
